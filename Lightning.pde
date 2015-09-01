@@ -12,7 +12,7 @@ void setup()
 }
 void draw()
 {
-	stroke((int)Math.random()*255, (int)Math.random()*255, (int)Math.random()*255);
+	stroke((int)Math.random()*255), (int)(Math.random()*255), (int)(Math.random()*255));
 	while (endX < 800)
 	{	
 		while (endY < 800)
