@@ -1,6 +1,6 @@
-int startX = 0;
+int startX = 400;
 int startY = 0;
-int endX = 0;
+int endX = 400;
 int endY = 0;
 
 void setup()
